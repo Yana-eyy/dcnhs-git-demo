@@ -6,5 +6,6 @@ class DCNHS {
     static void sop(){
         System.out.print("Geiko Branch");
         System.out.print("Geiko Branch II");
+        System.out.print("Geiko");
     }
 }
